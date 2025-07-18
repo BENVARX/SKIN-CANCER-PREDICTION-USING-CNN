@@ -60,7 +60,7 @@ skin-cancer-prediction/
 ├── models/ # (Optional) Saved model files
 └── data/ # (Optional) Dataset or sample images
 
---
+---
 📦 How to Run
 git clone https://github.com/yourusername/skin-cancer-prediction.git
 cd skin-cancer-prediction
@@ -71,13 +71,13 @@ pip install -r requirements.txt
 📗Run the Notebook
 jupyter notebook
 
---
+---
 📊 Results
 Training accuracy: ~70%
 Validation accuracy: ~65%
 Confusion matrix and classification report show acceptable performance for binary classification
 Future scope includes improving the model using pretrained CNNs like ResNet or EfficientNet.
 
---
+---
 🤝 Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
