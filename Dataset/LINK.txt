@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/jaiahuja/skin-cancer-detection/data?select=Skin+cancer+ISIC+The+International+Skin+Imaging+Collaboration
